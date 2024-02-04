@@ -1,0 +1,15 @@
+{
+    "name": "franc/php-api-reflection",
+    "autoload": {
+        "psr-4": {
+            "Franc\\PhpApiReflection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Francis G Santos",
+            "email": "francis.santos@prodeb.ba.gov.br"
+        }
+    ],
+    "require": {}
+}
